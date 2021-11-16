@@ -1,7 +1,8 @@
 [![Discord](https://img.shields.io/discord/721047801957580821?color=blueviolet&label=Discord&style=for-the-badge)](https://discord.gg/HESMuU2)
 [![GBJ Traduções](https://img.shields.io/badge/‹Traduções%20GBJ›-blue?style=for-the-badge&logo=Windows&logoColor=white)](https://github.com/JUNIORGBJ)
 
-## Baixar
+## História
+Galera, essa foi a minha primeira tradução lá em 2015, e por vários problemas na codificação do arquivo traduzido junto com minha falta de experiencia no ramo, nunca consegui termina-la. Agora estou aqui para termina-la. Aguardem...
 
 <h1 align="center"><figure>
   <img src="TransOceanCover.png">
