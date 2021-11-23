@@ -1402,6 +1402,7 @@ harborInfo_continent_Rotterdam = Europa
 harborInfo_climate_Rotterdam = temperado
 harborInfo_ranking_Rotterdam = #11
 harborInfo_throughput_Rotterdam = 11870000
+harborInfo_special_Rotterdam = Maeslantkering
 harborInfo_population_StPetersburg = 4879566
 harborInfo_country_StPetersburg = Rússia
 harborInfo_continent_StPetersburg = Europa
@@ -1829,3 +1830,57 @@ TutorialWindow_Button_Cancel_Text = Tem certeza que quer cancelar o tutorial?
 Random_Event_BorderControl_End = Controle de alfandega terminou!
 InGameMenu_Saving_NewSavegame = < Novo Jogo Salvo >
 TanjungPriok = Tanjung Priok
+
+Menu_Finances = FINANCES
+InGameMenu_Options_Game_Settings_FreeMiniGameCameraMode = Free minigame camera
+CompanyContract_Decision = Are you sure you wish to accept this company contract?
+TutorialWindow_MainTutorial_6B2 = Use the mouse wheel to zoom out, Hold the left button to pan the camera.
+DeadlineJob_Warning = Careful, this ship still has a deadline contract on board! Are you sure you want to have it repaired or upgraded?
+Difficulty_Title = Difficulty Level
+Difficulty_Easy = Easy
+Difficulty_Medium = Normal
+Difficulty_Hard = Hard
+Difficulty_Easy_Description = High value contracts, abundant start-up capital,\nrelaxed deadlines, small penalties.
+Difficulty_Medium_Description = Normal value contracts, good  start-up capital,\nnormal deadlines, normal penalties.
+Difficulty_Hard_Description = Low contract prices, little start-up capital,\nstrict deadlines, high penalties.
+HUD_PauseEvent_LeaveHabour = Leaving port
+Investor_Share_Announcement = The investor's dividend is payable again in one month's time.
+Upgrade_Decision = OR
+
+ContractList_Filter_Smuggler = Contraband
+ContractList_Filter_Compatible = Ship-compatible
+Shiplist_Sort_Class = Class
+Shiplist_Sort_Name = Name
+Shiplist_Sort_inHarbour = in port
+
+Tutorial_Zoom_Worldmap = From now on you can zoom the map in and out using the mouse wheel and move it around by holding down the left mouse button. This is also possible in the casting off menu.
+Ship_Sink_Chance_Warning = Chances of sinking from: §SINK_CHANCE§
+Rename_Ship = Rename ship
+Rename_Ship_Capital = RENAME SHIP
+
+CompanyInfo_CorporateIdentity = CORPORATE DESIGN
+CompanyInfo_CompanyName = Name and logo of your company:
+CompanyInfo_FleetColors = Colours of the company fleet:
+CompanyInfo_CorporateIdentity_LogoColor = Colour of the logo
+CompanyInfo_CorporateIdentity_FlipLogoOnShip = Mirror ship’s logo on the starboard side
+CompanyInfo_CorporateIdentity_RotateShip = Rotate ship
+CompanyInfo_CorporateIdentity_ShipPrimaryColor = Primary colour
+CompanyInfo_CorporateIdentity_ShipSecondaryColor = Secondary colour
+ColorChooser_Title = COLOUR SELECTION
+ColorChooser_Color_Type = COLOUR
+CompanyInfo_Reset = Reset
+
+CompanyInfo_CustomFolder = Put your own logo in the "§SAVEGAME_LOGO_USER_PATH§" folder.
+CompanyInfo_TotalCosts = Total cost of the new corporate design:
+
+IngameMenu_Options_Language = LANGUAGE
+IngameMenu_Options_Language_german = Deutsch
+IngameMenu_Options_Language_english = English
+IngameMenu_Options_Language_french = Français
+IngameMenu_Options_Language_italian = Italiano
+IngameMenu_Options_Language_spanish = Español
+IngameMenu_Options_Language_hungarian = Magyar
+IngameMenu_Options_Language_russian = Pусский
+IngameMenu_Options_Language_polish = Polski
+IngameMenu_Options_Language_czech = Čeština
+IngameMenu_Options_Language_tchinese = 中國傳統
