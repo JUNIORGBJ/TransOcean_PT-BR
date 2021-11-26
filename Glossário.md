@@ -6,3 +6,4 @@ Glossário
 |  Shipping Line Boss |  Gerente de transporte | ??? |
 |  Magnate |  Magnata | ??? |
 |  Tycoon |  Titã | ??? |
+|  Feeder |  Cargueiro | ??? |
