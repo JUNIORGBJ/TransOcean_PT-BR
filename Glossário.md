@@ -7,3 +7,4 @@ Glossário
 |  Magnate |  Magnata | ??? |
 |  Tycoon |  Titã | ??? |
 |  Feeder |  Cargueiro | ??? |
+|  subsidiary |  Filial | ??? |
