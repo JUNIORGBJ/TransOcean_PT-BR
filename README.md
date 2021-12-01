@@ -1,7 +1,7 @@
 [![GBJ Traduções](https://img.shields.io/badge/‹Traduções%20GBJ›-blue?style=for-the-badge&logo=Windows&logoColor=white)](https://github.com/JUNIORGBJ)
 
-## História
-Galera, essa foi a minha primeira tradução lá em 2015, e por vários problemas na codificação do arquivo traduzido junto com minha falta de experiência no ramo, nunca consegui termina-la. Agora estou aqui para termina-la. Aguardem...
+## Baixar
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/DESPERADOS_3_PT-BR?label=%20Lançamento&style=for-the-badge)](https://github.com/JUNIORGBJ/DESPERADOS_3_PT-BR/releases/latest)
 
 <h1 align="center"><figure>
   <img src="TransOceanCover.png">
@@ -18,8 +18,11 @@ _ "Traduzir 100% do jogo com a melhor qualidade possível" _
 
 Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, portanto ficarei feliz se você puder ajudar de alguma forma o projeto, tradução, erros ortográficos e revisão em jogo!
 
-## Instalação
-Em construção
+### Instalação Manual
+
+Será preciso colar e substituir as pastas ```Languages```no caminho especificado abaixo:
+
+```TransOcean - The Shipping Company\TransOcean_Data```
 
 ## Ferramentas Ultilizadas
 
