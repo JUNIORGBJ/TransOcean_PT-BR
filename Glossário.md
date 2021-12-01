@@ -11,5 +11,44 @@ Glossário
 
 Produtos
 ====================
-| Antiguidades |
-| Bauxita |
+|	Antiguidades|
+|	Bauxita	|
+|	Petróleo	|
+|	Diesel	|
+|	Fertilizante	|
+|	Eletrônicos	|
+|	Minérios	|
+|	Carne	|
+|	Produtos químicos líquidos	|
+|	Gás líquido	|
+|	Produtos questionáveis	|
+|	Frutas e vegetais	|
+|	Bebidas	|
+|	Grão	|
+|	Madeira	|
+|	Café	|
+|	Querosene	|
+|	Carvão	|
+|	Produtos enlatados	|
+|	Água contaminada	|
+|	Plástico	|
+|	Produtos de luxo	|
+|	Máquinas	|
+|	Produtos farmacêuticos	|
+|	Metais	|
+|	Móveis	|
+|	Papel	|
+|	Óleos vegetais	|
+|	Fosfatos	|
+|	Produtos radioativos	|
+|	Falsificados	|
+|	Óleo cru	|
+|	Sal	|
+|	Areia	|
+|	Sucata	|
+|	Óleo de combustível	|
+|	Brinquedos	|
+|	Têxteis	|
+|	Óleos animais	|
+|	Armas	|
+|	Cimento	|
