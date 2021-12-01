@@ -11,8 +11,8 @@ Glossário
 
 Produtos
 ====================
-|Antiguidades|
-|Bauxita|
+| Antiguidades |
+| Bauxita |
 |Petróleo|
 |Diesel|
 |Fertilizante|
