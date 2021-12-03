@@ -3,10 +3,10 @@ Glossário
 | TERMO ORIGINAL  |  TRADUÇÃO  | SIGNIFICADO  |
 | ------------------- | ------------------- |------------------- |
 |  Consignor |  Expedidor | ??? |
-|  Shipping Line Boss |  Gerente de transporte | ??? |
+|  Shipping Line Boss |  Diretor | ??? |
 |  Magnate |  Magnata | ??? |
 |  Tycoon |  Titã | ??? |
-|  Feeder |  Cargueiro | ??? |
+|  Feeder |  Feeder | ??? |
 |  subsidiary |  Filial | ??? |
 
 Produtos
